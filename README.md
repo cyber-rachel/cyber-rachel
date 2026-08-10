@@ -137,6 +137,3 @@ I am continuing to strengthen my skills in:
 **LinkedIn:** [Rachel Konadu Gyamfi](https://www.linkedin.com/in/rachel-konadu-gyamfi)
 
 **GitHub:** [cyber-rachel](https://github.com/cyber-rachel)
-**LinkedIn:** [Rachel Konadu Gyamfi](https://www.linkedin.com/in/rachel-konadu-gyamfi)
-
-**GitHub:** [cyber-rachel](https://github.com/cyber-rachel)
