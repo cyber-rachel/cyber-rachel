@@ -1,155 +1,142 @@
-Hi, I'm Rachel Konadu Gyamfi
+# Hi, I'm Rachel Konadu Gyamfi
 
-Data Analyst | Excel | SQL | Python | Power BI
+### Data Analyst | Excel | SQL | Python | Power BI
 
 I am a data analyst focused on turning structured data into clear insights that support better business decisions.
 
-My work combines Excel, SQL, Python, and Power BI to explore business performance, customer behavior, financial trends, operational efficiency, and socioeconomic patterns.
+My work combines **Excel, SQL, Python, and Power BI** to explore business performance, customer behavior, financial trends, operational efficiency, and socioeconomic patterns.
 
-Technical Skills
+---
 
-Excel
+## Technical Skills
 
-Data Cleaning & Transformation
+### Excel
 
-Pivot Tables & Pivot Charts
+- Data Cleaning & Transformation
+- Pivot Tables & Pivot Charts
+- Excel Formulas
+- KPI Analysis
+- Dashboard Development
 
-Excel Formulas
+### SQL
 
-KPI Analysis
+- MySQL
+- Data Definition & Manipulation
+- Joins & Aggregations
+- Common Table Expressions (CTEs)
+- Window Functions
+- Business & Financial Analysis
 
-Dashboard Development
+### Python
 
-SQL
+- Pandas
+- NumPy
+- Matplotlib
+- Exploratory Data Analysis
+- Statistical & Correlation Analysis
+- Data Visualization
 
-MySQL
+### Power BI
 
-Data Definition & Manipulation
+- Power Query
+- DAX
+- Data Modeling
+- KPI Development
+- Interactive Dashboards
+- Business Intelligence Reporting
 
-Joins & Aggregations
+---
 
-CTEs
+## Featured Projects
 
-Window Functions
+### 01. FIFA World Cup Analytics
 
-Business & Financial Analysis
-
-Python
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Exploratory Data Analysis
-
-Statistical & Correlation Analysis
-
-Data Visualization
-
-Power BI
-
-Power Query
-
-DAX
-
-Data Modeling
-
-KPI Development
-
-Interactive Dashboards
-
-Business Intelligence Reporting
-
-Featured Projects
-
-01. FIFA World Cup Analytics
-
-Python | MySQL | Power BI | Predictive Analytics
+**Python | MySQL | Power BI | Predictive Analytics**
 
 An end-to-end football analytics project exploring FIFA World Cup history, team performance, player statistics, tournament trends, and predictive analysis.
 
-View Project
+[View Project](https://github.com/cyber-rachel/fifa-world-cup-analytics)
 
-02. Football Analytics Hub
+---
 
-Power BI | Python | Data Visualization
+### 02. Football Analytics Hub
+
+**Power BI | Python | Data Visualization**
 
 Analysis of domestic performance, Champions League success, and squad value across Europe's top five football leagues.
 
-View Project
+[View Project](https://github.com/cyber-rachel/football-analytics-hub)
 
-03. AI Jobs Market Analysis
+---
 
-Power BI | Power Query | DAX
+### 03. AI Jobs Market Analysis
+
+**Power BI | Power Query | DAX**
 
 Interactive analysis of global AI job market trends, salaries, work arrangements, and workforce insights.
 
-View Project
+[View Project](https://github.com/cyber-rachel/ai-job-market-analysis)
 
-04. Sales & Financial SQL Analysis
+---
 
-MySQL | Advanced SQL | Data Analysis
+### 04. Sales & Financial SQL Analysis
+
+**MySQL | Advanced SQL | Data Analysis**
 
 Analysis of sales performance, revenue, profitability, product economics, regional performance, and sales channels using relational data.
 
-View Project
+[View Project](https://github.com/cyber-rachel/sales-financial-sql-analysis)
 
-05. African Household Socioeconomic Analysis
+---
 
-Python | Pandas | Matplotlib | Exploratory Data Analysis
+### 05. African Household Socioeconomic Analysis
+
+**Python | Pandas | Matplotlib | Exploratory Data Analysis**
 
 Exploration of household income, education, digital access, healthcare, agriculture, and environmental indicators across a fictional African household dataset.
 
-View Project
+[View Project](https://github.com/cyber-rachel/african-household-socioeconomic-analysis)
 
-06. Restaurant Order Analysis
+---
 
-Python | Pandas | Matplotlib | Data Visualization
+### 06. Restaurant Order Analysis
+
+**Python | Pandas | Matplotlib | Data Visualization**
 
 Analysis of restaurant revenue, menu performance, customer behavior, and operational patterns.
 
-View Project
+[View Project](https://github.com/cyber-rachel/restaurant-order-analysis)
 
-Other Projects
+---
 
-Project
+## Other Projects
 
-Focus
+| Project | Focus |
+| --- | --- |
+| [GhanaCart SQL Analysis](https://github.com/cyber-rachel/ghana-cart-sql-analysis) | E-commerce database & SQL analysis |
+| [Ghana Health Service Analytics](https://github.com/cyber-rachel/ghana-health-service-analytics) | Healthcare analytics & Power BI |
+| [Food Delivery Analytics](https://github.com/cyber-rachel/food-delivery-analytics-report) | Customer behavior & delivery operations |
 
-GhanaCart SQL Analysis
+---
 
-E-commerce database & SQL analysis
-
-Ghana Health Service Analytics
-
-Healthcare analytics & Power BI
-
-Food Delivery Analytics
-
-Customer behavior & delivery operations
-
-Currently Developing
+## Currently Developing
 
 I am continuing to strengthen my skills in:
 
-Advanced SQL
+- Advanced SQL
+- Python for Data Analysis
+- Excel Analytics
+- Data Engineering
+- Business Intelligence
+- Data Modeling
+- Analytics Engineering
 
-Python for Data Analysis
+---
 
-Excel Analytics
+## Connect With Me
+**LinkedIn:** [Rachel Konadu Gyamfi](https://www.linkedin.com/in/rachel-konadu-gyamfi)
 
-Data Engineering
+**GitHub:** [cyber-rachel](https://github.com/cyber-rachel)
+**LinkedIn:** [Rachel Konadu Gyamfi](https://www.linkedin.com/in/rachel-konadu-gyamfi)
 
-Business Intelligence
-
-Data Modeling
-
-Analytics Engineering
-
-Connect With Me
-
-LinkedIn: Rachel Konadu Gyamfi
-
-GitHub: cyber-rachel
+**GitHub:** [cyber-rachel](https://github.com/cyber-rachel)
