@@ -11,39 +11,16 @@ My work combines **Excel, SQL, Python, and Power BI** to explore business perfor
 ## Technical Skills
 
 ### Excel
-
-- Data Cleaning & Transformation
-- Pivot Tables & Pivot Charts
-- Excel Formulas
-- KPI Analysis
-- Dashboard Development
+Data Cleaning · Transformation · Pivot Tables · Pivot Charts · KPI Analysis · Dashboards
 
 ### SQL
-
-- MySQL
-- Data Definition & Manipulation
-- Joins & Aggregations
-- Common Table Expressions (CTEs)
-- Window Functions
-- Business & Financial Analysis
+MySQL · Joins · Aggregations · CTEs · Window Functions · Business Analysis
 
 ### Python
-
-- Pandas
-- NumPy
-- Matplotlib
-- Exploratory Data Analysis
-- Statistical & Correlation Analysis
-- Data Visualization
+Pandas · NumPy · Matplotlib · Exploratory Data Analysis · Statistical Analysis · Visualization
 
 ### Power BI
-
-- Power Query
-- DAX
-- Data Modeling
-- KPI Development
-- Interactive Dashboards
-- Business Intelligence Reporting
+Power Query · DAX · Data Modeling · KPI Development · Interactive Dashboards · BI Reporting
 
 ---
 
