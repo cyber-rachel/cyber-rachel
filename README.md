@@ -23,6 +23,13 @@ Pandas · NumPy · Matplotlib · Exploratory Data Analysis · Statistical Analys
 Power Query · DAX · Data Modeling · KPI Development · Interactive Dashboards · BI Reporting
 
 ---
+## Certifications
+
+- **Associate Data Analyst — DataCamp**
+  - Certified: July 5, 2026
+  - [View Certificate](https://www.datacamp.com/certificate/DAA0014478790778)
+
+---
 
 ## Featured Projects
 
