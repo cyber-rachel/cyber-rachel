@@ -23,6 +23,7 @@ Pandas · NumPy · Matplotlib · Exploratory Data Analysis · Statistical Analys
 Power Query · DAX · Data Modeling · KPI Development · Interactive Dashboards · BI Reporting
 
 ---
+
 ## Certifications
 
 - **Associate Data Analyst — DataCamp**
@@ -53,7 +54,27 @@ Analysis of domestic performance, Champions League success, and squad value acro
 
 ---
 
-### 03. AI Jobs Market Analysis
+### 03. Sales Analytics Excel Dashboard
+
+**Microsoft Excel | Pivot Tables | Pivot Charts | KPI Analysis**
+
+An interactive Excel dashboard built from 500 sales records, analyzing sales performance, profitability, monthly trends, regional results, and top-performing products. The project also documents data quality limitations identified during analysis.
+
+[View Project](https://github.com/cyber-rachel/sales-analytics-excel-dashboard)
+
+---
+
+### 04. Food Delivery Analytics
+
+**Power BI | Data Analysis | Data Visualization**
+
+An interactive Power BI report analyzing customer behavior, restaurant performance, revenue, and delivery operations.
+
+[View Project](https://github.com/cyber-rachel/food-delivery-analytics-report)
+
+---
+
+### 05. AI Jobs Market Analysis
 
 **Power BI | Power Query | DAX**
 
@@ -63,7 +84,37 @@ Interactive analysis of global AI job market trends, salaries, work arrangements
 
 ---
 
-### 04. Sales & Financial SQL Analysis
+### 06. FC Barcelona Performance Analytics
+
+**Microsoft Excel | Data Analysis | Dashboard Development**
+
+An Excel-based FC Barcelona performance analysis covering match results, goals, possession, competitions, home and away performance, and match factors.
+
+[View Project](https://github.com/cyber-rachel/fc-barcelona-performance-analytics)
+
+---
+
+### 07. Ghana Health Service Analytics
+
+**Power BI | Healthcare Analytics | Data Visualization**
+
+An interactive Power BI report analyzing patient visits, healthcare revenue, insurance coverage, and operational performance across Ghana Health Service facilities.
+
+[View Project](https://github.com/cyber-rachel/ghana-health-service-analytics)
+
+---
+
+### 08. Car Sales Commission Analytics
+
+**Microsoft Excel | Sales Analysis | Commission Analytics**
+
+An analytical project focused on car sales performance and commission-related insights.
+
+[View Project](https://github.com/cyber-rachel/car-sales-commission-analytics)
+
+---
+
+### 09. Sales & Financial SQL Analysis
 
 **MySQL | Advanced SQL | Data Analysis**
 
@@ -73,33 +124,14 @@ Analysis of sales performance, revenue, profitability, product economics, region
 
 ---
 
-### 05. African Household Socioeconomic Analysis
-
-**Python | Pandas | Matplotlib | Exploratory Data Analysis**
-
-Exploration of household income, education, digital access, healthcare, agriculture, and environmental indicators across a fictional African household dataset.
-
-[View Project](https://github.com/cyber-rachel/african-household-socioeconomic-analysis)
-
----
-
-### 06. Restaurant Order Analysis
-
-**Python | Pandas | Matplotlib | Data Visualization**
-
-Analysis of restaurant revenue, menu performance, customer behavior, and operational patterns.
-
-[View Project](https://github.com/cyber-rachel/restaurant-order-analysis)
-
----
-
 ## Other Projects
 
 | Project | Focus |
 | --- | --- |
-| [GhanaCart SQL Analysis](https://github.com/cyber-rachel/ghana-cart-sql-analysis) | E-commerce database & SQL analysis |
-| [Ghana Health Service Analytics](https://github.com/cyber-rachel/ghana-health-service-analytics) | Healthcare analytics & Power BI |
-| [Food Delivery Analytics](https://github.com/cyber-rachel/food-delivery-analytics-report) | Customer behavior & delivery operations |
+| [Marketing Campaign Analysis](https://github.com/cyber-rachel/marketing-campaign-analysis) | Marketing campaign performance and business insights |
+| [African Household Socioeconomic Analysis](https://github.com/cyber-rachel/african-household-socioeconomic-analysis) | Household income, education, digital access, healthcare, agriculture, and environmental indicators |
+| [Restaurant Order Analysis](https://github.com/cyber-rachel/restaurant-order-analysis) | Restaurant revenue, menu performance, customer behavior, and operational patterns |
+| [GhanaCart SQL Analysis](https://github.com/cyber-rachel/ghana-cart-sql-analysis) | E-commerce database and SQL analysis |
 
 ---
 
@@ -118,6 +150,7 @@ I am continuing to strengthen my skills in:
 ---
 
 ## Connect With Me
+
 **LinkedIn:** [Rachel Konadu Gyamfi](https://www.linkedin.com/in/rachel-konadu-gyamfi)
 
 **GitHub:** [cyber-rachel](https://github.com/cyber-rachel)
